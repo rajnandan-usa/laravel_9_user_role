@@ -1,0 +1,29 @@
+{
+  "name": "laravel_user_admin",
+  "version": "1.0.0",
+  "description": "Laravel Role and permission project",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "laravel-vite-plugin": "^0.7.8",
+    "lodash": "^4.17.21",
+    "resolve-url-loader": "^5.0.0",
+    "sass-loader": "^13.3.2",
+    "vite": "^2.6.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Rajnandan",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.63.6"
+  }
+}
